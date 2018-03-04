@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env jython
 #
 # Copyright (C) 2007-2009 Cournapeau David <cournape@gmail.com>
 #               2010 Fabian Pedregosa <fabian.pedregosa@inria.fr>
